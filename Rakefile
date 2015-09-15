@@ -1,4 +1,4 @@
-#!/usr/bin/ruby -wKU
+#!/usr/bin/ruby
 
 task :default => :run
 
